@@ -1,0 +1,9 @@
+{
+    "employeeId": "EMP002",
+    "employeeName": "Surya baby G",
+    "employeeEmail": "surya123@gmail.com",
+    "type": "Casual",
+    "from": "2025-07-29",
+    "to": "2025-08-08",
+    "reason": "Personal Function"
+}
